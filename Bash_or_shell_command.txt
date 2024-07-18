@@ -1,0 +1,9 @@
+some bash command : 
+1.Pwd : present working directory.
+2.ls -a or dir : show all the files
+3.Touch : to create a file
+4.cd  (to move any folder) or cd .. (to back one step) 
+5.rmdir directory_name: remove the directory_name
+6.rm filename : remove the file 
+7.mkdir : create the directory
+8.

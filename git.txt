@@ -1,0 +1,8 @@
+Git command and uses :-
+1.git init : use to Initialized the git repositorygit.
+2.git branch -m master main  : use to modified 
+the name of exitsing branch
+3.git status : to check which file is untracked and tracked.
+4.git add filename or git add . : to add the files into the staging area.
+5.git rm --cached <file> :  to unstage
+8.git reset : 
