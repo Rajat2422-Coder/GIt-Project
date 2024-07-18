@@ -6,4 +6,6 @@ some bash command :
 5.rmdir directory_name: remove the directory_name
 6.rm filename : remove the file 
 7.mkdir : create the directory
-8.
+8.17. echo "xyz"  >> Read.me : to create a file with content
+9.Mv Readme Read.me : Rename the files name
+1. $ Cat Read.me : to read the file
