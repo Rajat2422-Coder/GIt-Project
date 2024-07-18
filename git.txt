@@ -14,5 +14,6 @@ the name of exitsing branch
 14. git commit -a -m "third commit " : make differtly comment following  to skip the staging area.
 15.clear : use to clear the console 
 16.ssh-keygen -o : create the SSH key 
-17. 
+17.  git remote -v : to check the link for push and fetch 
+18.
 
