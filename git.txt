@@ -5,8 +5,10 @@ the name of exitsing branch
 3.git status : to check which file is untracked and tracked.
 4.git add filename or git add . : to add the files into the staging area.
 5.git rm --cached <file> :  to unstage one file
-8. git reset : to make the tracked files to untracked for all in one go.
+8. git reset : to make the tracked files to untracked for al         l in one go.
 10. git config --global user.email "you@example.com"
-    git config --global user.name "Your Name"
+....git config --global user.name "Your Name"
 11. git config --global --list : to check the list.
-get dhjd
+12. git diff --staged : show chnages has been add for the next comment
+13. git diff : Between Working Directory and Staging Area (Index)
+
