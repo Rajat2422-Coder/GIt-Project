@@ -12,4 +12,7 @@ the name of exitsing branch
 12. git diff --staged : show chnages has been add for the next comment
 13. git diff : Between Working Directory and Staging Area (Index)
 14. git commit -a -m "third commit " : make differtly comment following  to skip the staging area.
+15.clear : use to clear the console 
+16.ssh-keygen -o : create the SSH key 
+17. 
 
