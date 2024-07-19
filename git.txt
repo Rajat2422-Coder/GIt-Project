@@ -15,5 +15,9 @@ the name of exitsing branch
 15.clear : use to clear the console 
 16.ssh-keygen -o : create the SSH key 
 17. git remote -v : to check the link for push and fetch 
-18. git branch <new-branch-name> efa8ccb : to create a branch which includes all the snapshot till this commit  efa8ccb.
-
+18. git branch <new-branch-name> efa8ccb : to create a branch which includes all the snapshot till this commit  efa8ccb.                     
+19. git tag -a V 1.0 : used for giving the annoate tagging not light weighted 
+20. git show V 1.0 : to show the data upto where you put tag
+21. git switched -c new branch : to create a new branch .
+22.git branch --all : to show all the branch
+23.git branch -D <branch_name> : his forcefully deletes the branch, regardless of whether it's been merged or not. Use this with caution, as it permanently removes the commits associated with the branch from your local repository.
