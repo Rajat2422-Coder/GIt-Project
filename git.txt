@@ -21,3 +21,5 @@ the name of exitsing branch
 21. git switched -c new branch : to create a new branch .
 22.git branch --all : to show all the branch
 23.git branch -D <branch_name> : his forcefully deletes the branch, regardless of whether it's been merged or not. Use this with caution, as it permanently removes the commits associated with the branch from your local repository.
+24. git push origin -d main3 : to delete a branch in git hub.
+git push origin V1.0 : to push the tag
